@@ -8,7 +8,13 @@ I suggest making a new folder for these snippets (e.g. css).
 
 ### Snippet Shortcuts
 
-`mu` + `TAB`
+`mu` + `TAB` for
+
+```
+@media #{$mobile-up} {
+  
+}
+```
 
 ## Media Query Variables
 
