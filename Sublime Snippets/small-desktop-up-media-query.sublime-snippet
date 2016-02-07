@@ -1,0 +1,9 @@
+<snippet>
+  <content><![CDATA[
+@media #{\$sdesktop-up} {
+  ${1:}
+}
+  ]]></content>
+  <tabTrigger>sdu</tabTrigger>
+  <scope>source.css</scope>
+</snippet>

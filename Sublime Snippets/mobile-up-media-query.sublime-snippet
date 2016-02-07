@@ -1,0 +1,9 @@
+<snippet>
+  <content><![CDATA[
+@media #{\$mobile-up} {
+  ${1:}
+}
+  ]]></content>
+  <tabTrigger>mu</tabTrigger>
+  <scope>source.css</scope>
+</snippet>

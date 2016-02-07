@@ -1,0 +1,9 @@
+<snippet>
+  <content><![CDATA[
+@media #{\$large-up} {
+  ${1:}
+}
+  ]]></content>
+  <tabTrigger>lu</tabTrigger>
+  <scope>source.css</scope>
+</snippet>

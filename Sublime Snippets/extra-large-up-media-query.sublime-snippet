@@ -1,0 +1,9 @@
+<snippet>
+  <content><![CDATA[
+@media #{\$xlarge-up} {
+  ${1:}
+}
+  ]]></content>
+  <tabTrigger>xlu</tabTrigger>
+  <scope>source.css</scope>
+</snippet>
